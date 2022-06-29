@@ -1,5 +1,5 @@
 # CypressTest
-Contains tests done in cypress
+Contains tests done in cypress(Javascript)
 
 All the tests are in cypress/e2e/ folder.
 
